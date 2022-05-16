@@ -1,3 +1,3 @@
 package lingo
 
-const Pi = 3;
+const Pi = 3
